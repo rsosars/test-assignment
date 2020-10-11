@@ -1,0 +1,16 @@
+{
+  "name": "@test-assignment/shared-data-model",
+  "version": "0.0.1",
+  "description": "Shared data model for service consumption",
+  "main": "dist/index.js",
+  "types": "dist/index",
+  "author": "Reinis Sosars",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "build:prod": "tsc -b tsconfig.json",
+    "build:dev": "tsc -b tsconfig.json --watch"
+  }
+}

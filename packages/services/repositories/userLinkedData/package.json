@@ -1,0 +1,12 @@
+{
+  "name": "@test-assignment/user-linked-data",
+  "version": "0.0.1",
+  "description": "Repository for accessing identifiable user data",
+  "main": "index.js",
+  "author": "Reinis Sosars",
+  "license": "MIT",
+  "devDependencies": {
+    "@test-assignment/shared-data-model": "^0.0.1",
+    "typescript": "^4.0.3"
+  }
+}

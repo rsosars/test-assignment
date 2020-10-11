@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+	"noImplicitAny": true,
+	"sourceMap": true,
+	"module": "commonjs",
+	"target": "es2017",
+	"jsx": "react",
+	"declaration": true,
+	"moduleResolution": "Node",
+	"experimentalDecorators": true,
+	"emitDecoratorMetadata": true,
+  }
+}
